@@ -31,6 +31,4 @@ To use this dashboard, follow these steps:
 3. Use the pivot table and interactive charts to explore bike sales data.
 
 ## Sample Screenshots
-
-https://github.com/Aravindpai152/Bike_Sales_Dashboard/blob/main/Sample%20Dashboard.png
-
+![Bike Sales DashBoard](https://github.com/Aravindpai152/Bike_Sales_Dashboard/blob/main/Sample%20Dashboard.png)
