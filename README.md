@@ -29,6 +29,3 @@ To use this dashboard, follow these steps:
 1. Clone this repository to your local machine.
 2. Open the Excel file (`bike_sales_dashboard.xlsx`) using Microsoft Excel or an equivalent spreadsheet software.
 3. Use the pivot table and interactive charts to explore bike sales data.
-
-## Sample Screenshots
-![Bike Sales DashBoard](https://github.com/Aravindpai152/Bike_Sales_Dashboard/blob/main/Sample%20Dashboard.png)
