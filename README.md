@@ -32,5 +32,5 @@ To use this dashboard, follow these steps:
 
 ## Sample Screenshots
 
-(C:\Users\HP\Pictures\Screenshots\Screenshot 2023-10-17 210024.png)
+https://github.com/Aravindpai152/Bike_Sales_Dashboard/blob/main/Sample%20Dashboard.png
 
