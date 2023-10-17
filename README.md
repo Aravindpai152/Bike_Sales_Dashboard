@@ -32,5 +32,5 @@ To use this dashboard, follow these steps:
 
 ## Sample Screenshots
 
-"C:\Users\HP\Pictures\Screenshots\Screenshot 2023-10-17 210024.png"
+C:\Users\HP\Pictures\Screenshots\Screenshot 2023-10-17 210024.png
 
